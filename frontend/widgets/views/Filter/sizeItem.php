@@ -1,0 +1,1 @@
+<div class="entry"><?= $model->title ?></div>

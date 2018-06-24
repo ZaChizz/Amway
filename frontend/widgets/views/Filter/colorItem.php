@@ -1,0 +1,1 @@
+<div style="background-color: #<?= $model->rgb ?>;" class="entry"></div>
